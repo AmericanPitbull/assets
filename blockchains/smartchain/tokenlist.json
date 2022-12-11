@@ -191,13 +191,13 @@
         },
         {
             "chainId": 56,
-            "asset": "c20000714_t0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+            "asset": "c20000714_t0xA55CC50F98ecCA10C07eA11100250798D1de49fB",
             "type": "BEP20",
-            "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
-            "name": "Jupiter",
-            "symbol": "bwJUP",
+            "address": "0xA55CC50F98ecCA10C07eA11100250798D1de49fB",
+            "name": "LampedusaCoin",
+            "symbol": "LMPC",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/AmericanPitbull/assets/98bad71162e77f7340c2035a8d6dc111e69eaf36/blockchains/smartchain/assets/logo.png",
             "pairs": []
         },
         {
