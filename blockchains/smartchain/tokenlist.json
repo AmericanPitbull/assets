@@ -198,10 +198,10 @@
         },
         {
             "chainId": 56,
-            "asset": "c20000714_t0xA55CC50F98ecCA10C07eA11100250798D1de49fB",
+            "asset": "c20000714_t0x565bce943107228ac832312c871277354d76d06e",
             "type": "BEP20",
-            "address": "0xA55CC50F98ecCA10C07eA11100250798D1de49fB",
-            "name": "LampedusaCoin",
+            "address": "0x565bce943107228ac832312c871277354d76d06e",
+            "name": "Lampedusa Coin",
             "symbol": "LMPC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/AmericanPitbull/assets/98bad71162e77f7340c2035a8d6dc111e69eaf36/blockchains/smartchain/assets/logo.png",
